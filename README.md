@@ -24,7 +24,7 @@ Sistem ini menggunakan arsitektur modern untuk performa optimal.
 
 ### 1. Backend (Laravel)
 1.  **Clone Repository**
-    Silakan clone project Laravel pada [Link Repository Berikut ↗️](MASUKKAN_LINK_GITHUB_DISINI).
+    Silakan clone project Laravel pada [Link Repository Berikut ↗️](https://github.com/nan022/api-sistem-akademik).
 2.  **Siapkan Environment**
     Pastikan Anda sudah mempunyai local server seperti Laragon atau Xampp.
 3.  **Instalasi Dependensi**
@@ -45,7 +45,7 @@ Sistem ini menggunakan arsitektur modern untuk performa optimal.
 
 ### 2. Frontend (Next.js)
 1.  **Clone Repository**
-    Silakan clone project Frontend pada [Link Repository Berikut ↗️](MASUKKAN_LINK_GITHUB_DISINI).
+    Silakan clone project Frontend pada [Link Repository Berikut ↗️](https://github.com/nan022/sistem-akademik).
 2.  **Instalasi Dependensi**
     Jalankan perintah berikut di terminal:
     ```bash
