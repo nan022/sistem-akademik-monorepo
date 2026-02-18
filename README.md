@@ -74,6 +74,12 @@ Sistem ini menggunakan arsitektur modern untuk performa optimal.
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/07edf83c-8f2f-4111-9908-274fc5b3c090" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/72c7a4d3-d08f-4251-95a4-6082baea5344" />
 
-4. 
+4. **Insert Data (New)**
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c5ee60ff-b48a-4267-9292-8b7bedd83501" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/44eea5d3-ce6b-45ca-939c-d3d7c6bc4a1c" />
+
+5. **And Another Features**
+
+
 
 
