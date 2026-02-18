@@ -64,6 +64,9 @@ Sistem ini menggunakan arsitektur modern untuk performa optimal.
 ---
 
 ## 💻 Testing
+**API**
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d16d4c9d-5606-4d86-a4b9-df7275559e14" />
+
 1.  **Menamppilkan All Data**
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/27a0a0db-c7b8-4e44-94a2-39fc1ba04ca6" />
 
