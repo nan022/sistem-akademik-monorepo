@@ -65,5 +65,13 @@ Sistem ini menggunakan arsitektur modern untuk performa optimal.
 1.  **Menamppilkan All Data**
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/27a0a0db-c7b8-4e44-94a2-39fc1ba04ca6" />
 
-2.  **Search Data**
-3.  
+2.  **Quick Filter**
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f75221b3-187f-4436-ae9e-cf7ea23fb86b" />
+
+3.  **Advance Filter**
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/07edf83c-8f2f-4111-9908-274fc5b3c090" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/72c7a4d3-d08f-4251-95a4-6082baea5344" />
+
+4. 
+
+
