@@ -37,6 +37,8 @@ Sistem ini menggunakan arsitektur modern untuk performa optimal.
     ```bash
     php artisan migrate:fresh --seed
     ```
+    <img width="753" height="623" alt="image" src="https://github.com/user-attachments/assets/629dae18-2d9c-4831-98c8-ac4dc3b134c5" />
+
 5.  **Jalankan Server**
     Mulai server lokal dengan perintah:
     ```bash
